@@ -1,0 +1,3 @@
+[submodule "knowhere"]
+	path = knowhere
+	url = https://github.com/milvus-io/knowhere.git
